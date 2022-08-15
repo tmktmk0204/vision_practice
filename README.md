@@ -1,2 +1,3 @@
 # vision_practice
 画像処理の練習場
+mnistデータに少しづつlayerを追加してみている
